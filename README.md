@@ -25,7 +25,7 @@ Urađene su dve vrste kvantizacije:
 
 ### Koraci
 
-1. Kloniraj repozitorijum:
+1. Klonirati repozitorijum:
 ```bash
 git clone https://github.com/RitaPece/mu2-kvantizacija-onnx.git
 cd mu2-kvantizacija-onnx
